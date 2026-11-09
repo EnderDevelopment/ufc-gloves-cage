@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <!-- 3D black UFC cage panel with gem-shaped joints and perspective sides. -->
+  <path fill="#07090b" d="M0 5 16 0l16 5v22l-16 5L0 27z"/>
+  <path fill="#252a30" d="M1 6 16 1l15 5-15 5z"/>
+  <path fill="#111419" d="m3 7 13-4 13 4-13 4z"/>
+  <path fill="#3c434b" d="M1 6h2v20H1zM29 6h2v20h-2zM15 10h2v21h-2z"/>
+  <path fill="#080a0d" d="M3 6h2v20H3zM9 5h2v20H9zM21 5h2v20h-2zM27 6h2v20h-2z"/>
+  <path fill="#5b636c" d="M2 7h1v18H2zM10 6h1v18h-1zM16 11h1v18h-1zM22 6h1v18h-1zM28 7h1v18h-1z"/>
+  <path fill="#1b2025" d="M0 11 16 5l16 6v2l-16-6-16 6zM0 17l16-6 16 6v2l-16-6-16 6zM0 23l16-6 16 6v2l-16-6-16 6z"/>
+  <path fill="#606871" d="M0 10 16 4l16 6v1l-16-6-16 6zM0 16l16-6 16 6v1l-16-6-16 6zM0 22l16-6 16 6v1l-16-6-16 6z"/>
+  <path fill="#0b0d10" d="M0 26 16 20l16 6v2l-16-6-16 6z"/>
+  <path fill="#353c44" d="M4 8 6 7l2 1-2 1zM12 6l2-1 2 1-2 1zM20 6l2-1 2 1-2 1zM24 8l2-1 2 1-2 1zM4 14l2-1 2 1-2 1zM12 12l2-1 2 1-2 1zM20 12l2-1 2 1-2 1zM24 14l2-1 2 1-2 1zM4 20l2-1 2 1-2 1zM12 18l2-1 2 1-2 1zM20 18l2-1 2 1-2 1zM24 20l2-1 2 1-2 1z"/>
+  <path fill="#89919a" d="M5 7h2v1H5zM13 5h2v1h-2zM21 5h2v1h-2zM25 7h2v1h-2zM5 13h2v1H5zM13 11h2v1h-2zM21 11h2v1h-2zM25 13h2v1h-2zM5 19h2v1H5zM13 17h2v1h-2zM21 17h2v1h-2zM25 19h2v1h-2z"/>
+</svg>

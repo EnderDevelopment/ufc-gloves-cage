@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 32" shape-rendering="crispEdges">
+  <!-- Chest armor layer: torso and both arm sleeves extend to the hands. -->
+  <path fill="#08090b" d="M8 3h6v2h4v2h4v3h20V7h4V5h4V3h6v4h3v8h-3v13h-4v3h-8v-3h-3v-7H23v7h-3v3h-8v-3H8V15H5V7h3z"/>
+  <path fill="#17191d" d="M9 4h5v3h5v3h4v12h18V10h4v-3h5V4h4v5h2v6h-2v12h-4v2h-5v-3h-3V20H23v6h-3v3h-5v-2h-4V15H9V9h-2V7h2z"/>
+  <path fill="#2b2e34" d="M11 6h4v3h4v3h3v10h20V12h3V9h4V6h3v7h2v2h-2v10h-3v2h-4v-3h-3V18H22v6h-3v3h-4v-2h-3V15h-2V9h-2V7h3z"/>
+  <path fill="#3d4149" d="M12 7h3v4h3v3h2v8h3V12h20v10h3v-8h2v-3h3V7h2v7h-2v4h-2v7h-4v2h-3v-3h-2V17H22v7h-2v3h-3v-2h-4v-7h-1v-4h-2V9h2z"/>
+  <path fill="#111318" d="M23 10h18v5H23zM22 15h20v3H22z"/>
+  <path fill="#555a63" d="M25 11h14v2H25zM24 15h16v1H24z"/>
+  <path fill="#050608" d="M12 14h4v8h3v4h-4v-2h-3zM48 14h4v10h-4v2h-4v-4h3z"/>
+  <path fill="#767b84" d="M13 14h2v7h3v2h-2v-1h-3zM49 14h2v8h-3v1h-2v-2h3z"/>
+  <path fill="#0a0b0e" d="M12 25h4v3h-4zM48 25h4v3h-4z"/>
+  <path fill="#23262c" d="M14 26h3v2h-3zM47 26h3v2h-3z"/>
+  <path fill="#0b0c0f" d="M21 11h2v10h-2zM41 11h2v10h-2z"/>
+</svg>
